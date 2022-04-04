@@ -1,3 +1,3 @@
 # Testando o Bot
 
-Olá, bot
+Olá, bot. Testando bot!
